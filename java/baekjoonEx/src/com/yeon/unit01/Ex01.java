@@ -1,8 +1,7 @@
-package com.baekjoon.unit01;
+package com.yeon.unit01;
 
 public class Ex01 {
     public static void main(String[] args) {
-
-
+        System.out.println("Hello World!");
     }
 }
