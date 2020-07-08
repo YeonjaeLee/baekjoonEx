@@ -1,0 +1,11 @@
+D:\yeonjae\Baekjoon\c#\baekjoonEx\baekjoonEx\obj\Debug\netcoreapp2.1\baekjoonEx.csprojAssemblyReference.cache
+D:\yeonjae\Baekjoon\c#\baekjoonEx\baekjoonEx\obj\Debug\netcoreapp2.1\baekjoonEx.csproj.CoreCompileInputs.cache
+D:\yeonjae\Baekjoon\c#\baekjoonEx\baekjoonEx\obj\Debug\netcoreapp2.1\baekjoonEx.AssemblyInfoInputs.cache
+D:\yeonjae\Baekjoon\c#\baekjoonEx\baekjoonEx\obj\Debug\netcoreapp2.1\baekjoonEx.AssemblyInfo.cs
+D:\yeonjae\Baekjoon\c#\baekjoonEx\baekjoonEx\bin\Debug\netcoreapp2.1\baekjoonEx.deps.json
+D:\yeonjae\Baekjoon\c#\baekjoonEx\baekjoonEx\bin\Debug\netcoreapp2.1\baekjoonEx.runtimeconfig.json
+D:\yeonjae\Baekjoon\c#\baekjoonEx\baekjoonEx\bin\Debug\netcoreapp2.1\baekjoonEx.runtimeconfig.dev.json
+D:\yeonjae\Baekjoon\c#\baekjoonEx\baekjoonEx\bin\Debug\netcoreapp2.1\baekjoonEx.dll
+D:\yeonjae\Baekjoon\c#\baekjoonEx\baekjoonEx\bin\Debug\netcoreapp2.1\baekjoonEx.pdb
+D:\yeonjae\Baekjoon\c#\baekjoonEx\baekjoonEx\obj\Debug\netcoreapp2.1\baekjoonEx.dll
+D:\yeonjae\Baekjoon\c#\baekjoonEx\baekjoonEx\obj\Debug\netcoreapp2.1\baekjoonEx.pdb

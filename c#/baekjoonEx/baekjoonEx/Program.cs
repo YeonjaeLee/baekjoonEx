@@ -6,7 +6,8 @@ namespace baekjoonEx
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Unit01.Ex01.Init();
+            Console.ReadLine();
         }
     }
 }
