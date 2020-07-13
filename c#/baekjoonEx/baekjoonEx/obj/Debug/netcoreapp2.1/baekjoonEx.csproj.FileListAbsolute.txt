@@ -9,3 +9,4 @@ D:\yeonjae\Baekjoon\c#\baekjoonEx\baekjoonEx\bin\Debug\netcoreapp2.1\baekjoonEx.
 D:\yeonjae\Baekjoon\c#\baekjoonEx\baekjoonEx\bin\Debug\netcoreapp2.1\baekjoonEx.pdb
 D:\yeonjae\Baekjoon\c#\baekjoonEx\baekjoonEx\obj\Debug\netcoreapp2.1\baekjoonEx.dll
 D:\yeonjae\Baekjoon\c#\baekjoonEx\baekjoonEx\obj\Debug\netcoreapp2.1\baekjoonEx.pdb
+D:\yeonjae\Baekjoon\c#\baekjoonEx\baekjoonEx\obj\Debug\netcoreapp2.1\baekjoonEx.genruntimeconfig.cache

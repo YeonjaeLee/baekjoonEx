@@ -9,15 +9,6 @@ namespace baekjoonEx
 
 
 
-
-
-
-
-
-
-
-
-
             //Unit01.Ex02.Init();
             Console.ReadLine();
         }
