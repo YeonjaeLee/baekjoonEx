@@ -1,6 +1,18 @@
-package com.yeon;
+package com.yeon.unit01;
 
-public class Main {
+/*
+아래 예제와 같이 개를 출력하시오.
+입력
+
+출력
+|\_/|
+|q p|   /}
+( 0 )"""\
+|"^"`    |
+||_/=\\__|
+ */
+
+public class Ex04 {
     public static void main(String[] args) {
         System.out.println("|\\_/|");
         System.out.println("|q p|   /}");

@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="822240bb-47c2-4123-91ed-580ebefa9eb7" name="Default Changelist" comment="[j]Unit01_Ex02">
-      <change afterPath="$PROJECT_DIR$/src/com/yeon/unit01/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yeon/unit01/Ex04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/baekjoonEx/com/yeon/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/baekjoonEx/com/yeon/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/yeon/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yeon/Main.java" afterDir="false" />
@@ -55,8 +55,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -108,6 +111,8 @@
       <workItem from="1594216593795" duration="529000" />
       <workItem from="1594278404840" duration="322000" />
       <workItem from="1594652336640" duration="2485000" />
+      <workItem from="1594662805709" duration="73000" />
+      <workItem from="1594744024044" duration="226000" />
     </task>
     <task id="LOCAL-00001" summary="[j]Unit01_Ex01">
       <created>1594217088103</created>
@@ -147,6 +152,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="[j]Unit01_Ex02" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2660" y="295" key="FileChooserDialogImpl" timestamp="1594744135904">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2660" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1594744135904" />
     <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1594660759569">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -175,5 +184,9 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2590" y="327" key="git4idea.merge.GitPullDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1594217030299" />
+    <state x="2259" y="150" key="new project wizard" timestamp="1594744246445">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2259" y="150" key="new project wizard/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1594744246445" />
   </component>
 </project>
